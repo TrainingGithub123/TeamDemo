@@ -13,3 +13,6 @@ class Programmer extends Employee{
 
 output-  Programmer salary is:40000.0
          Bonus of programmer is:10000
+
+Thank you
+output is correct
