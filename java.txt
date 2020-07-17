@@ -9,3 +9,7 @@ class Programmer extends Employee{
    System.out.println("Bonus of Programmer is:"+p.bonus);  
 }  
 }  
+
+
+output-  Programmer salary is:40000.0
+         Bonus of programmer is:10000
